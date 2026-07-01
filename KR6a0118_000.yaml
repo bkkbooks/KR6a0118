@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6a0118/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說鴦掘摩經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T02/T02n0118.xml
+    old_id: T02n0118
+hash: sha256:c357befc4ca59e9145870d01d77b476e63178e4b4f53f4908991fa2c533129ff
