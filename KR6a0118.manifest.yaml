@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0118_000.yaml, hash: 'sha256:c357befc4ca59e9145870d01d77b476e63178e4b4f53f4908991fa2c533129ff'}
-  - {seq: 1, filename: KR6a0118_001.yaml, hash: 'sha256:bcf55b3037a75ae8aa986813c394592fd31ab01613fb3f9fc54c6e963661ea27'}
+  - {seq: 1, filename: KR6a0118_001.yaml, hash: 'sha256:ec12c3743a07e0f4cb2edd78c13b531884c796908613fb8da372a39d40b08853'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6a0118_001.markers.yaml, hash: 'sha256:7844a6e80041034d9bcbdb121aba25a5b5892f0f7647f272ba03eefe049f9132'}
+  - {seq: 0, role: markers, filename: assets/KR6a0118_000.markers.yaml, hash: 'sha256:023a2b1f10638015b3e5eba5a5243b6ad90ec0f399e69a106172d7da0b74f8b8'}
+  - {seq: 1, role: markers, filename: assets/KR6a0118_001.markers.yaml, hash: 'sha256:df6ede03af1442bf2cc1159088f9705c34b9f755d50dfad1328ba5e014738d71'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,7 +49,4 @@ table_of_contents:
   label: 佛說鴦掘摩經
   type: juan
   level: 1
-hash: sha256:82225ad67bd49c0fd0e47698e2b8403fb1e78f711817150418b3cbb2e8b0b782
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:825bc4a8dacdd09c4076b7b51749e869375a091152041dc2b0b235bb11d2494f
